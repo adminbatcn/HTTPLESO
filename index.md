@@ -51,7 +51,6 @@ $(document).ready(function() {
 <meta name="google-site-verification" content="ZhYSLwPbIiF-O7C_boJurJYXr_9R02y9Z6vgWHgEFWU" />
 
 </head>
-
 <body>
 <div id="wrap">
 <div id="top"><span class="fl">好度一下_他知道_你知道！</span><span class="fr"></span><span class="fr"><iframe width="450" scrolling="no" height="18" frameborder="0" allowtransparency="true" src="//is.tianqi.com/index.php?c=code&id=1&icon=1&wind=1&num=2"></iframe></span></div></span></div>
